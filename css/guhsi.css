@@ -1,0 +1,154 @@
+*{
+	margin:0;
+	padding:0;
+}
+.a{
+	width: 1000px;
+	height: 200px;
+	margin: 0 auto;
+}
+.b{
+	width: 1000px;
+	height: 50px;
+	margin: 0 auto;
+	background-color: #ff6c6c;
+}
+.b>ul>li{
+	float: left;
+	margin-left: 60px;
+	list-style: none;
+	line-height: 50px;
+	font-family: "微软雅黑";
+	border: 0px solid #ff6c6c;
+	width: 130px;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.b>ul>li:hover{
+	background-color: #ffbf1c;
+}
+.c{
+	width: 1000px;
+	overflow: hidden;
+	margin: 0 auto;
+	padding-top: 10px;
+}
+.c>p{
+	font-size: 25px;
+	text-align: center;
+	color: #FF6C6C;
+	padding-top: 10px;
+	font-family: "楷体";
+	font-weight: bold;
+}
+.c>ul>img{
+	padding: 20px;
+}
+.c>ul>li{
+	float: left;
+}
+.d{
+	width: 950px;
+	height:240px;
+	margin-left: 280px;
+	margin-top: 20px;
+	
+}
+.d>span{
+	font-size: 20px;
+	color: #505050;
+	font-weight: bold;
+}
+.d>p{
+	color: #7a7a7a;
+	font-size: 13px;
+	line-height: 25px;
+}
+.d>img{
+	margin-right: 10px;
+	border-radius: 20px 20px;
+}
+.e{
+	width: 950px;
+	height:280px;
+	margin-left: 280px;
+	margin-top: 20px;
+}
+.e>span{
+	margin-left: 460px;
+	font-size: 20px;
+	color: #505050;
+	font-weight: bold;
+}
+.e>p{
+	color: #7a7a7a;
+	font-size: 13px;
+	line-height: 25px;
+}
+.e>img{
+	margin-left: 10px;
+	border-radius: 20px 20px;
+}
+.f{
+	margin-top: 30px;
+}
+.f>span{
+	margin-left: 300px;
+	font-size: 20px;
+	color: #505050;
+	font-weight: bold;
+}
+.g{
+	width: 400px;
+	height: 400px;
+	margin-left: 280px;
+	margin-top: 10px;
+	float: left;
+}
+.g>img{
+	border-radius: 20px 20px;
+}
+.g>span{
+	margin-left: 10px;
+	font-size: 20px;
+	color: #505050;
+	font-weight: bold;
+}
+.g>p{
+	color: #7a7a7a;
+	font-size: 13px;
+	line-height: 25px;
+}
+.h{
+	width: 400px;
+	height: 400px;
+	margin-left: 150px;
+	margin-top: 10px;
+	float: left;
+}
+.h>img{
+	border-radius: 20px 20px;
+}
+.h>span{
+	margin-left: 10px;
+	font-size: 20px;
+	color: #505050;
+	font-weight: bold;
+}
+.h>p{
+	color: #7a7a7a;
+	font-size: 13px;
+	line-height: 35px;
+}
+.p{
+	
+	width: 1000px;
+	height: 70px;
+	background-color: #ff6c6c;
+	margin:450px auto 0px auto;
+	text-align: center;
+	line-height: 70px;
+}
